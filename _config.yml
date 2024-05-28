@@ -112,9 +112,6 @@ author:
   location         : "Earth, Solar System"
   email            : "producer.p@pseudoartist.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:producer.p@pseudoartist.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/maxin0904"
