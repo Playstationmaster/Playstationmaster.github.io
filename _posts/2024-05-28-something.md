@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "kegfkheafkuhwf"
+title: "첫 포스팅입니다"
 ---
 
-# kdhkdf
+# 상세 정보
 
-awofhwuahfikawf
+GitHub Pages 포스팅 테스트입니다
